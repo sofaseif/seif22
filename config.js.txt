@@ -1,0 +1,6 @@
+module.exports = {
+    TOKEN: 'Njc2NTA2MjkxNDAwNjA1NzM1.XkGrrw.pccEh6NIpNXVjG0Ng0VYz7wFvE4',    
+    YT_API_KEY: 'api ', 
+    prefix: '0',
+    devs: ['512716743005831168']
+}
